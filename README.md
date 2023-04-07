@@ -16,17 +16,17 @@
 
 - 🤝 I’m looking for help with **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gmiqbal](https://www.linkedin.com/in/gmiqbal)
+<!-- - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gmiqbal](https://www.linkedin.com/in/gmiqbal) -->
 
-- 📝 I regularly write articles on [https://medium.com/@gmiqbalm](https://medium.com/@gmiqbalm)
+- 📝 I sometimes write articles on [https://medium.com/@gmiqbalm](https://medium.com/@gmiqbalm)
 
 - 💬 Ask me about **MS Office Suite, VBA**
 
 - 📫 How to reach me **gmiqbalm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DuoccfXb3f3zdWMV64GSfPeFrFx4QzBf/view?usp=share_link](https://drive.google.com/file/d/1DuoccfXb3f3zdWMV64GSfPeFrFx4QzBf/view?usp=share_link)
+- 📄 Know about my experiences from my [CV](https://drive.google.com/file/d/1DuoccfXb3f3zdWMV64GSfPeFrFx4QzBf/view?usp=share_link)
 
-- ⚡ Fun fact **I watch a lot of Fail Army videos on YT**
+- ⚡ Fun fact **I watch a lot of Fail Army & Cat videos on YT**
 
 
 
