@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/gmiqbal_iem" target="blank"><img src="https://img.shields.io/twitter/follow/gmiqbal_iem?logo=twitter&style=for-the-badge" alt="gmiqbal_iem" /></a> </p> -->
 
-- 🔭 I’m currently working on **Telegram bot API**
+- 🔭 I’m currently working on **Basic to intermediate JAVA projects**
 
 - 🌱 I’m currently learning **Java, Spitng boot**
 
