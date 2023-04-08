@@ -20,7 +20,7 @@
 
 - 📝 I sometimes write articles on [https://medium.com/@gmiqbalm](https://medium.com/@gmiqbalm)
 
-- 💬 Ask me about **MS Office Suite, VBA**
+- 💬 Ask me about **LaTeX, VBA, MS Excel**
 
 - 📫 How to reach me **gmiqbalm@gmail.com**
 
