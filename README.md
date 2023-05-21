@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Iqbal!</h1>
 <h3 align="center">Upwards & onwards to CS from Non-cs</h3>
+
 <img align="right" alt="Coding" width="320" src="https://media.tenor.com/JKME0oniBxIAAAAS/parkour-theoffice.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmiqbal&label=Profile%20views&color=0e75b6&style=flat" alt="gmiqbal" /> </p>
 
@@ -29,6 +31,8 @@
 - ⚡ Fun fact **I watch a lot of Fail Army & Cat videos on YT**
 
 
+
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,7 +61,7 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gmiqbalm?theme=dark&font=Copse&ext=activity)
-<p><img align="right" alt="Coding" width="320" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif"></p>
+
 
 
 
