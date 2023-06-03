@@ -28,11 +28,11 @@
 
 - 📄 Know about my experiences from my [CV](https://drive.google.com/file/d/1Ot6fc8czxe7bEqLG6PxAh4w5vQ0JGfkF/view?usp=sharing)
 
-- ⚡ Fun fact **I watch a lot of Fail Army & Cat videos on YT. Huge fan of Naval Ravikant and Andrew Huberman!**
+- ⚡ Fun fact **I am a huge fan of Naval Ravikant and Andrew Huberman! 💖**
 
 
 
-<img align="right" alt="Coding" width="320" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif">
+<!-- <img align="right" alt="Coding" width="320" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif"> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
