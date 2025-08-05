@@ -5,7 +5,6 @@ Industrial Engineer | Supply Chain Planner | Automation Enthusiast
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Read-white?style=flat&logo=google-scholar)]([https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID](https://scholar.google.com/citations?user=3PNQt0EAAAAJ&hl=en))
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Gm-Mahmud)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/8801753377808)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat&logo=telegram)](https://t.me/gm1_9)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@GMIqbalMahmud)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:gmiqbalm@gmail.com)
 
