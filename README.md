@@ -1,34 +1,37 @@
-# G M Iqbal Mahmud 🚀  
-Industrial Engineer | Supply Chain Planner | Automation Enthusiast
+<h1 align="center">Hi there, I'm GM Iqbal Mahmud! 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gmiqbal)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Read-white?style=flat&logo=google-scholar)]([https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID](https://scholar.google.com/citations?user=3PNQt0EAAAAJ&hl=en))
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Gm-Mahmud)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/8801753377808)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@GMIqbalMahmud)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:gmiqbalm@gmail.com)
+<p align="center">
+  <em>Master's Student in Industrial Engineering @ Texas State University | Supply Chain & Operations Research Enthusiast</em>
+</p>
 
-## About Me  
-A results-driven professional blending **Industrial Engineering**, **Supply Chain Optimization**, and **Process Automation** to drive efficiency and innovation. Specializes in solving complex operational challenges using data-driven strategies, AI/ML, and cutting-edge tools.  
+### 🎓 About Me
+- 🔭 I’m currently working as a **Graduate Research Assistant** at **Texas State University**, focusing on **Resilient Data Center Network Design** under Dr. Wenquan Dong.
+- 💼 Previously, I was a **Supply Chain Planning Officer** at **Unilever**, where I optimized production plans and automated workflows.
+- 🌱 I’m currently strengthening my skills in **Machine Learning for Engineering Applications** and **Advanced Heuristic Optimization**.
+- 🎓 I hold a B.Sc. in **Industrial & Production Engineering** from Khulna University of Engineering & Technology (KUET).
+- 👯 I’m looking to collaborate on projects related to **Operations Research, Supply Chain Optimization, and Data Analytics**.
 
+### 🛠️ Tech Stack & Skills
+- **Programming & Modeling:** Python, AMPL, Gurobi, SAP VBA
+- **Data & Analytics:** Microsoft Power BI, Data Analysis, Excel Automation
+- **Simulation & Design:** Arena (Discrete-event modeling), SolidWorks
+- **Core Domains:** Mathematical Modeling, Production Planning (MPS/MRP), Inventory Management, Logistics Optimization
 
+### 🏆 Quick Highlights
+- ⚡ **Optimization:** Developed mathematical models to optimize energy-constrained data center layouts for improved cooling efficiency using Python and Gurobi.
+- ⚙️ **Automation:** Built Python, Power Automate, and SAP-scripting automations at Unilever, cutting reporting time by 78%.
+- 📊 **Simulation:** Built a 7-stage Arena discrete-event model of an EV battery line, identifying bottlenecks and cutting the mean time in system by 19%.
+- ✈️ **Logistics:** Optimized aircraft boarding sequences to minimize turn-around time by modeling nonlinear constraints.
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/gmiqbal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
-
-## 🛠️ Technical Skills  
-| Tools & Languages | Expertise |  
-|-------------------|-----------|  
-| **Python**, R, SQL, VBA, C, OR-Tools | Automation, Data Analysis, AI/ML, Scripting |  
-| **SAP ERP**, Power BI, Tableau, MS Office Suite, Power Automate | Supply Chain Analytics, Reporting, Process Automation |  
-| SolidWorks, AutoCAD, Adobe Illustrator, Blender, Adobe Premiere Pro, Draw.io | CAD, 3D Modeling, Visual Design |  
-| Git, LaTeX, Zotero, Mendeley, ArcGIS, Obsidian, Notion | Collaboration, Documentation, Research Management, GIS |  
-| AMPL, Gurobi, Product Management | Upcoming skills... |  
-
----
-
-## 🌍 Volunteer & Community  
-- **IEM Robotics & CAD Club**: Mentored 50+ students in CAD/Robotics workshops 🤖
-- **Google Maps Local Guide**: Enhanced 1,319+ contributions, impacting 831K+ users 🗺️  
-- **Fiverr Freelancer**: Delivered 15+ 5-star projects in Excel/Forecasting for global clients 🌐  
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
