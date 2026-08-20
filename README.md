@@ -5,8 +5,14 @@
     <em>Specializing in Operations Research, Supply Chain Optimization, and Mathematical Modeling</em>
   </p>
   
+  <a href="https://gmiqbal.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/gmiqbal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=3PNQt0EAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
 </div>
 
